@@ -3,7 +3,7 @@
 This repository contains the source code for a simple personal website designed for **Irvan Fauzi**. The website includes multiple pages, file-based routing, and a responsive design with a modern dark gradient theme.
 
 - [Arlink](https://arlink.arweave.net/) - Deployments on Arweave made as simple as one click.
-- [Demo]() - This repository succes deploy on Arlink
+- [Demo](https://challenge-1_arlink.arweave.net/) - This repository succes deploy on Arlink
 
 ## Features
 
